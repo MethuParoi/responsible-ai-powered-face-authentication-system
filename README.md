@@ -185,10 +185,10 @@ Please read our [Contribution Guidelines](CONTRIBUTING.md) and code of ethics be
 
 ## Developer
 
-**Muhit Khan**
+**Methu Paroi**
 
-- LinkedIn: [linkedin.com/in/muhit-khan](https://linkedin.com/in/muhit-khan)
-- Email: muhit.dev@gmail.com
+- LinkedIn: [linkedin.com/in/methu-paroi](https://linkedin.com/in/methu-paroi)
+- Email: paroimethu@gmail.com
 
 ## License
 
